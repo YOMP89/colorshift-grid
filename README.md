@@ -1,28 +1,33 @@
-ColorShift Grid
-ColorShift Grid es un proyecto interactivo que presenta una cuadrícula 3x3 de cuadros coloridos, diseñada para ofrecer una experiencia visual dinámica y atractiva.
-Descripción
-Este proyecto consiste en una cuadrícula interactiva donde cada cuadro cambia de color al pasar el cursor sobre él, creando un efecto visual en constante cambio. Es una demostración simple pero efectiva de cómo combinar HTML, CSS y JavaScript para crear una experiencia visual interactiva.
-Estructura del Proyecto
-El proyecto consta de tres archivos principales:
+# ColorShift Grid
 
-index.html: Define la estructura de la cuadrícula 3x3 utilizando una tabla en HTML.
-style.css: Proporciona los estilos necesarios para darle formato a la cuadrícula y a los cuadros individuales.
-style.js: Contiene la lógica en JavaScript para gestionar el cambio de colores de los cuadros al interactuar con ellos.
+**ColorShift Grid** es un proyecto interactivo que presenta una cuadrícula 3x3 de cuadros coloridos, diseñada para ofrecer una experiencia visual dinámica y atractiva.
 
-Cómo Usar
+## Descripción
 
-Clona este repositorio en tu máquina local.
-Abre el archivo index.html en tu navegador web.
-Mueve el cursor sobre los cuadros para ver cómo cambian de color.
+Este proyecto consiste en una cuadrícula interactiva donde cada cuadro cambia de color al pasar el cursor sobre él, creando un efecto visual en constante cambio. Es una demostración simple pero efectiva de cómo combinar **HTML**, **CSS** y **JavaScript** para crear una experiencia visual interactiva.
 
-Personalización
-Puedes personalizar este proyecto de varias maneras:
+### Características
 
-Modifica los colores iniciales o el rango de colores en style.js.
-Cambia el tamaño de la cuadrícula ajustando el HTML y el CSS.
-Añade efectos adicionales o animaciones para mejorar la interactividad.
+- **Interactividad Dinámica:** Los cuadros de la cuadrícula cambian de color al pasar el cursor sobre ellos.
+- **Diseño Minimalista:** La cuadrícula 3x3 mantiene un diseño simple y efectivo, centrado en la experiencia visual.
+- **Código Limpio y Modular:** El proyecto está desarrollado utilizando buenas prácticas de programación, con HTML, CSS y JavaScript bien organizados.
 
-Contribuciones
-Las contribuciones son bienvenidas. Si tienes alguna idea para mejorar este proyecto, no dudes en crear un pull request o abrir un issue.
-Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+### Tecnologías Utilizadas
+
+- **HTML5:** Estructura básica de la cuadrícula.
+- **CSS3:** Estilización de los cuadros y manejo de las transiciones de color.
+- **JavaScript:** Control del comportamiento interactivo al pasar el cursor sobre los cuadros.
+
+### Uso
+
+1. Clona este repositorio.
+2. Abre el archivo `index.html` en tu navegador.
+3. Disfruta de la experiencia visual al interactuar con la cuadrícula.
+
+### Contribuciones
+
+Las contribuciones son bienvenidas. Si tienes ideas para mejorar el proyecto, no dudes en abrir un *pull request* o *issue*.
+
+### Licencia
+
+Este proyecto está bajo la licencia MIT. Puedes consultar los detalles en el archivo LICENSE.md.
