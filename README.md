@@ -1,5 +1,7 @@
 # ColorShift Grid
 
+![Pantallazo del proyecto](pantallazo.jpg)
+
 **ColorShift Grid** es un proyecto interactivo que presenta una cuadrícula 3x3 de cuadros coloridos, diseñada para ofrecer una experiencia visual dinámica y atractiva.
 
 ## Descripción
